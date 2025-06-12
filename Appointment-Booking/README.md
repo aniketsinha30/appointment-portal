@@ -30,7 +30,7 @@
 
 # Setup Instructions
 #### 1. Clone this repository
-    - 
+    - git clone https://github.com/aniketsinha30/appointment-portal.git
 #### 2. Backend Setup
     - cd server 
     - npm install
